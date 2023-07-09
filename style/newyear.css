@@ -101,3 +101,48 @@ font-weight: 500;
 .btn{
   margin-top: 24px;
 }
+/* footer section */
+footer{
+  padding: 130px 230px;
+  background-color: #151414;
+}
+.footer-part{
+  display: flex;
+  justify-content: space-around;
+  gap: 330px;
+  background-color: #151414;
+}
+.footer-tittle{
+  color: #F8F8F8;
+  font-size: 45px;
+  font-weight: 700;
+}
+.footer-text{
+  color: #FFF;
+font-size: 16px;
+font-weight: 400;
+margin-top: 16px;
+margin-bottom: 25px;
+}
+.icon{
+  display: inline-flex;
+  gap: 20px;
+
+}
+.sub-btn{
+  border-radius: 8px;
+background: #005FAC;
+padding: 20px 35px;
+color: #FFF;
+font-size: 20px;
+font-weight: 600;
+margin-top: 16px;
+cursor: pointer;
+}
+.input-email{
+  padding: 21px 158px 20px 21px;
+  color: #F3F3F3;
+font-size: 18px;
+font-weight: 400;
+margin-top: 30px;
+}
