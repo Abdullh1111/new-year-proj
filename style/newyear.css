@@ -13,10 +13,6 @@ font-family: 'Work Sans', sans-serif;
   background-repeat: no-repeat;
   background-size: 100% 750px;
 }
-
-header{
-  
-}
 .all-tittle{
   color: #FFF;
 font-size: 65px;
@@ -63,4 +59,32 @@ margin: 20px 0px;
 main li{
   color: #444343;
   margin-bottom: 8px;
+  max-width: 1600px;
+}
+/* my plan secsion */
+.plan-tittle{
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+.skill-container{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.skill{
+  text-align: center;
+}
+.skill-tittle{
+  color: #151414;
+font-size: 30px;
+font-weight: 700;
+margin-top: 25px;
+margin-bottom: 15px;
+}
+.skill-text{
+  color: #737272;
+font-size: 25px;
+font-weight: 500;
 }
