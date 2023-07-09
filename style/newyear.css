@@ -40,3 +40,27 @@ background-color: #FFF;
 border: 0px;
 cursor: pointer;
 }
+main{
+  max-width: 1600px;
+}
+.failure{
+  display: flex;
+  align-items: center;
+  gap: 87px;
+  margin: 200px;
+}
+.failure-tittle{
+  color: #151414;
+font-size: 40px;
+font-weight: 700;
+}
+.failure-para{
+  color: #444343;
+font-size: 16px;
+font-weight: 400;
+margin: 20px 0px;
+}
+main li{
+  color: #444343;
+  margin-bottom: 8px;
+}
